@@ -68,7 +68,7 @@
         name="search"
         type="text"
         autofocus
-        placeholder="Search"
+        placeholder="Searchj"
         on:input={search}
       />
     {/if}
